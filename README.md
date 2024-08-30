@@ -6,8 +6,11 @@ Sortowanie bąbelkowe polega na wielokrotnym przechodzeniu przez tablicę i por�
 
 # Opis programu:
 ## Wprowadzenie danych: 
-Program najpierw pyta użytkownika o liczbę elementów w tablicy oraz same elementy. Użytkownik wpisuje liczby na standardowym wejściu (konsola).
+Program najpierw pyta użytkownika o liczbę elementów w tablicy oraz kolejne elementy. Użytkownik wpisuje liczby w konsoli.
 ## Sortowanie: 
-Program pyta użytkownika, czy chce sortować liczby rosnąco, czy malejąco. Następnie wykonuje sortowanie bąbelkowe według wyboru użytkownika.
+Użytkownik wybiera, czy sortuje liczby rosnąco czy malejąco. Następnie program wykonuje sortowanie bąbelkowe według wyboru użytkownika.
 ## Wyświetlanie wyników: 
-Na końcu program wyświetla nieposortowaną oraz posortowaną tablicę na standardowym wyjściu (konsola).
+Na końcu program wyświetla nieposortowaną oraz posortowaną tablicę w konsoli.
+
+# Jak otworzyć program?
+Wejdź do folderu Sortowanie babelkowe, nastepnie bin, Debug i otwórz aplikacje.
