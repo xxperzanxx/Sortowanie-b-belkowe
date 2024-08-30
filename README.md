@@ -12,5 +12,5 @@ Użytkownik wybiera, czy sortuje liczby rosnąco czy malejąco. Następnie progr
 ## Wyświetlanie wyników: 
 Na końcu program wyświetla nieposortowaną oraz posortowaną tablicę w konsoli.
 
-# Program można zobaczyć w pliku main.c
+# Program można zobaczyć w pliku main.c, w katalogu Sortowanie babelkowe
 # Działanie można obejrzeć tu: (https://youtu.be/z61y_kI9S5o)
