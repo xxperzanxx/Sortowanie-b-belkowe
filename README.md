@@ -12,4 +12,5 @@ Użytkownik wybiera, czy sortuje liczby rosnąco czy malejąco. Następnie progr
 ## Wyświetlanie wyników: 
 Na końcu program wyświetla nieposortowaną oraz posortowaną tablicę w konsoli.
 
-# Program można zobaczyć w programie main.c
+# Program można zobaczyć w pliku main.c
+# Działanie można obejrzeć w załączonym pliku wideo.
