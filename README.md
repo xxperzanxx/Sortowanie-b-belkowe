@@ -12,5 +12,4 @@ Użytkownik wybiera, czy sortuje liczby rosnąco czy malejąco. Następnie progr
 ## Wyświetlanie wyników: 
 Na końcu program wyświetla nieposortowaną oraz posortowaną tablicę w konsoli.
 
-# Jak otworzyć program?
-Wejdź do folderu Sortowanie babelkowe, nastepnie bin, Debug i otwórz aplikacje.
+# Program można zobaczyć w programie main.c
